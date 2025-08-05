@@ -1,7 +1,7 @@
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Aos from "aos";
-import Gradient from "./assets/gradient.png";
+import Gradient from "../public/gradient.png";
 import 'aos/dist/aos.css';
 import { useEffect } from "react";
 
